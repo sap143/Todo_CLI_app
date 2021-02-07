@@ -1,6 +1,4 @@
-# CoronaSafe Engineering Fellowship Test Problem
 
-Thanks for applying to the CoronaSafe Engineering fellowship!
 
 In this step we want to see how you implement a command-line (CLI) program that lets you manage your todos.
 
